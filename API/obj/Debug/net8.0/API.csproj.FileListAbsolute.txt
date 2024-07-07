@@ -1,0 +1,73 @@
+C:\Educacion IT\Web net core\Proyecto\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Educacion IT\Web net core\Proyecto\API\bin\Debug\net8.0\appsettings.json
+C:\Educacion IT\Web net core\Proyecto\API\bin\Debug\net8.0\API.exe
+C:\Educacion IT\Web net core\Proyecto\API\bin\Debug\net8.0\API.deps.json
+C:\Educacion IT\Web net core\Proyecto\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Educacion IT\Web net core\Proyecto\API\bin\Debug\net8.0\API.dll
+C:\Educacion IT\Web net core\Proyecto\API\bin\Debug\net8.0\API.pdb
+C:\Educacion IT\Web net core\Proyecto\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Educacion IT\Web net core\Proyecto\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Educacion IT\Web net core\Proyecto\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Educacion IT\Web net core\Proyecto\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\API.dll
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\refint\API.dll
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\API.pdb
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\ref\API.dll
+C:\Educacion IT\Web net core\Proyecto\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\appsettings.Development.json
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\appsettings.json
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\API.exe
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\API.deps.json
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\API.dll
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\API.pdb
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\EducacionIT\Web net core\Proyecto\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\API.dll
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\refint\API.dll
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\API.pdb
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\EducacionIT\Web net core\Proyecto\API\obj\Debug\net8.0\ref\API.dll
