@@ -19,7 +19,7 @@ namespace ProyectoIT
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();
+            app.UseHttpsRedirection();  // lo que usa la palabra Use son middleware (Salvo algunos como UseSQLServer...)
             app.UseStaticFiles();
 
             app.UseRouting();
@@ -28,7 +28,7 @@ namespace ProyectoIT
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Login}/{action=Login}/{id?}");
 
             app.Run();
         }
